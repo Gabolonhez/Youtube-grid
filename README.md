@@ -5,7 +5,7 @@
 Réplica da grade de vídeos do youtube.
 
 ## 🎯 Funcionalidades
-- [x] : Permite verificar vídeos.
+- [x] : Permite verificar vídeos. 
 
 ## 💻 Tecnologias 
 - `HTML`
