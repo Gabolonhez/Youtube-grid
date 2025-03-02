@@ -11,5 +11,5 @@ Réplica da grade de vídeos do youtube.
 - `HTML`
 - `CSS`
   
-## 🎨 Link do Figma
+## 🎨 Protótipo (Figma)
 https://www.figma.com/design/PWRsUYuXvdrAjzAfrl4AiQ/Desafio-Grid---DIO-(Copy)?node-id=1-2&t=NZ9NbB4TVRwngPdi-1
